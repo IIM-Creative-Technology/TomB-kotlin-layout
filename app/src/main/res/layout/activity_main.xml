@@ -9,18 +9,12 @@
 
 
     <LinearLayout
-        android:layout_width="360dp"
-        android:layout_height="175dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="45dp"
-        android:layout_marginTop="200dp"
-        android:layout_marginEnd="45dp"
-        android:layout_marginBottom="375dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="@android:color/black"
         android:orientation="vertical"
+        android:gravity="center"
+        android:layout_centerInParent="true"
         android:padding="5dp">
 
         <Button
